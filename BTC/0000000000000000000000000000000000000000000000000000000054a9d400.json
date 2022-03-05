@@ -1,1 +1,24 @@
-{"name": "2015-01-05", "description": "BTC", "image": "https://ipfs.io/ipfs/QmXtS8RQdWyWH5uFkAZE7PNQFbNSBdHW27Brfkyik5zsoS?filename=BTCUSDT-2015-1-5.png", "external_url": "https://memorizethisday.io", "background_color": "", "attributes": [{"open": 265.08, "high": 278.34, "low": 265.08, "close": 274.47, "isRare": false}]}
+{"name": "Bitcoin on 2015-01-05", "description": "OHLC : 265.08,278.34,265.08,274.47", "image": "https://ipfs.io/ipfs/QmXtS8RQdWyWH5uFkAZE7PNQFbNSBdHW27Brfkyik5zsoS?filename=BTCUSDT-2015-1-5.png", "external_url": "https://memorizethisday.io", "background_color": "", 
+"attributes":[{
+        "trait_type": "Open", 
+        "value": 265.08
+        }, 
+        {
+        "trait_type": "High", 
+        "value": 278.34
+        },
+        {
+        "trait_type": "Low", 
+        "value": 265.08
+        },
+        {
+        "trait_type": "Close", 
+        "value": 274.47
+        },
+		{
+      "display_type": "date", 
+      "trait_type": "birthday", 
+      "value": 1420416000
+		}
+		]
+}
