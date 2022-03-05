@@ -1,5 +1,10 @@
-{"name": "Bitcoin on 2015-01-05", "description": "OHLC : 265.08,278.34,265.08,274.47", "image": "https://ipfs.io/ipfs/QmXtS8RQdWyWH5uFkAZE7PNQFbNSBdHW27Brfkyik5zsoS?filename=BTCUSDT-2015-1-5.png", "external_url": "https://memorizethisday.io", "background_color": "", 
-"attributes":[{
+{"name": "Bitcoin Price on 2015-01-05", "description": "OHLC : 265.08,278.34,265.08,274.47", "image": "https://ipfs.io/ipfs/QmXtS8RQdWyWH5uFkAZE7PNQFbNSBdHW27Brfkyik5zsoS?filename=BTCUSDT-2015-1-5.png", "external_url": "https://memorizethisday.io", "background_color": "", 
+"attributes":[
+		{
+		  "trait_type": "Rare", 
+		  "value": "No"
+		},
+		{
         "trait_type": "Open", 
         "value": 265.08
         }, 
@@ -22,3 +27,5 @@
 		}
 		]
 }
+
+
